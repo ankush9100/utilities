@@ -1,0 +1,27 @@
+{
+  "name": "presentationalcomponent",
+  "version": "0.0.1",
+  "description": "This is a presentational component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankush9100/utilities.git"
+  },
+  "keywords": [
+    "Presentational",
+    "component"
+  ],
+  "author": "Ankush Kumar",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ankush9100/utilities/issues"
+  },
+  "homepage": "https://github.com/ankush9100/utilities#readme"
+}
