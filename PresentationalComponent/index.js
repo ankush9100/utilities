@@ -1,10 +1,10 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-export default function PresentationalComponent() {
+export default function PresentationalComponent({data}) {
     return (
         <View>
-            <Text>Hi From the Library</Text>
+            <Text>{data}</Text>
         </View>
     )
 }
